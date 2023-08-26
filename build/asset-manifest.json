@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Website/static/css/main.dbf65720.css",
+    "main.js": "/Portfolio_Website/static/js/main.6f09c78c.js",
+    "static/media/me-about.jpg": "/Portfolio_Website/static/media/me-about.f064006646b48f2be242.jpg",
+    "static/media/me.png": "/Portfolio_Website/static/media/me.b784d4e2da8d9d7454e6.png",
+    "static/media/priyesh-cv.pdf": "/Portfolio_Website/static/media/priyesh-cv.78dcf588b3ae13386bc2.pdf",
+    "index.html": "/Portfolio_Website/index.html",
+    "main.dbf65720.css.map": "/Portfolio_Website/static/css/main.dbf65720.css.map",
+    "main.6f09c78c.js.map": "/Portfolio_Website/static/js/main.6f09c78c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf65720.css",
+    "static/js/main.6f09c78c.js"
+  ]
+}
